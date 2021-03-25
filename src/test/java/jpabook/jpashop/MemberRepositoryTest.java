@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
 @ExtendWith(SpringExtension.class)
 class MemberRepositoryTest {
-
+    /*
     @Autowired MemberRepository memberRepository;
 
     @Test
@@ -37,5 +37,5 @@ class MemberRepositoryTest {
         System.out.println("findMember = " + findMember);
         System.out.println("member = " + member);
 
-    }
+    }*/
 }
