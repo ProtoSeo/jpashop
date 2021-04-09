@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @ExtendWith(SpringExtension.class)
 class MemberRepositoryTest {
     /*
-    @Autowired MemberRepository memberRepository;
+    @Autowired MemberRepositoryOld memberRepository;
 
     @Test
     @Transactional
